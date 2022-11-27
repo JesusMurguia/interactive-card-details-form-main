@@ -7,6 +7,7 @@
   --very-dark-violet: hsl(278, 68%, 11%);
   font-size: 18px;
   font-family: "Space Grotesk", sans-serif;
+  width: 100%;
 }
 
 p {
@@ -20,6 +21,7 @@ body {
   background-repeat: no-repeat;
   background-position: top left;
   background-size: 32% 100%;
+  width: 100%;
 }
 
 main {
